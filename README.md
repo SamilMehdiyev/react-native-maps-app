@@ -9,7 +9,7 @@ Integrating Google Maps in React Native App on iOS 🚀 Check it on [Medium](htt
 
 2.Load all the dependencies
 ```
-$ cd MapsApp
+$ cd react-native-maps-app
 $ npm install
 ```
 
