@@ -1,6 +1,6 @@
 # MapsApp
 
-Integrating Google Maps in React Native App on iOS 🚀 Check it on [Medium](https://medium.com/)
+Integrating Google Maps in React Native App on iOS 🚀 Check it on [Medium](https://medium.com/@samil.mehdiyev/integrating-google-maps-in-react-native-app-on-ios-656da9f1e40f)
 
 ### Getting Started
 
